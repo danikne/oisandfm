@@ -1,0 +1,17 @@
+.indexbgc{background-color: bisque;
+
+}
+img {
+    width:250px;
+    height:250px;
+}
+.daunbgc{
+    background-color: #0906c4c9;
+    font-size: 100px;
+    color: rgb(14, 12, 12);
+}
+audio{
+    border: solid 20px rgb(3, 255, 58);
+    background-color: rgb(15, 252, 74);
+border-radius: 50px 10px 50px 10px;
+}
